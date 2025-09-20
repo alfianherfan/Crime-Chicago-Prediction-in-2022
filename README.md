@@ -22,4 +22,8 @@ Apa saja yang dilakukan?
 Machine learning yang digunakan ada 3 yaitu Holt-Winters, Random Forest Regressor, dan ARIMA.
 Matriks yang digunakan adalah matriks regresi seperti MAE, RMSE, MAPE, dan R-square
 
+Hasil:
+
 <img width="1340" height="529" alt="image" src="https://github.com/user-attachments/assets/a522b687-5053-4715-a8a2-0522a5899361" />
+
+Random Forest Regressor memberikan hasil yang terbaik karena matrik yang didapatkan lebih baik diantara model lainnya.
