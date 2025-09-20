@@ -24,6 +24,12 @@ Matriks yang digunakan adalah matriks regresi seperti MAE, RMSE, MAPE, dan R-squ
 
 Hasil:
 
-<img width="1340" height="529" alt="image" src="https://github.com/user-attachments/assets/a522b687-5053-4715-a8a2-0522a5899361" />
+<img width="1356" height="622" alt="image" src="https://github.com/user-attachments/assets/0dba7779-ab0c-44f3-af5f-3c06f373788f" />
+
 
 Random Forest Regressor memberikan hasil yang terbaik karena matrik yang didapatkan lebih baik diantara model lainnya.
+
+Rekomendasi:
+- Pemasangan CCTV & Penerangan Tambahan: Identifikasi dan pasang lebih banyak kamera pengawas atau tingkatkan penerangan jalan di lokasi yang rawan.
+- Optimalisasi Patroli Berbasis Prediksi: Alokasikan lebih banyak personel patroli ke area yang memiliki risiko kejahatan lebih tinggi.
+- Peningkatan Keamanan Diri: Mendorong masyarakat untuk lebih waspada, terutama di bulan-bulan yang teridentifikasi rawan, seperti yang terlihat pada grafik.
