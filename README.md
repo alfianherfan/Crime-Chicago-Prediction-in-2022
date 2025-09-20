@@ -10,3 +10,16 @@ Background:
 Kota Chicago mengalami fluktuasi jumlah kejahatan sepanjang tahun. Pemangku kebijakan ingin menyusun strategi pencegahan yang berbasis data, bukan sekadar reaktif.
 Diperlukan analisis tren dan pola musiman agar penempatan patroli, kampanye keamanan, serta alokasi anggaran dapat dilakukan lebih efektif dan tepat waktu. Data ini memiliki rentang waktu pada tahun 2022.
 
+Apa saja yang dilakukan?
+- Memahami background data
+- Melakukan data understanding
+- Data manipulation
+- Melakukan Exploratory Data Analysis dan membuat visualisasi
+- Feature engineering seperti Calendar Features, Cyclical Encoding, Lag & Rolling Target, dan Split Data untuk model machine learning
+- Modelling
+- Insight & Rekomendasi
+
+Machine learning yang digunakan ada 3 yaitu Holt-Winters, Random Forest Regressor, dan ARIMA.
+Matriks yang digunakan adalah matriks regresi seperti MAE, RMSE, MAPE, dan R-square
+
+<img width="1340" height="529" alt="image" src="https://github.com/user-attachments/assets/a522b687-5053-4715-a8a2-0522a5899361" />
